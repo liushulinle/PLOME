@@ -24,3 +24,4 @@ Source code for the paper "PLOME: Pre-training with Misspelled Knowledge for Chi
    step2: sh gen_train_tfrecords.sh ;
    step3: sh start.sh
    ```
+   Our pre-trained model: https://drive.google.com/file/d/1aip_siFdXynxMz6-2iopWvJqr5jtUu3F/view?usp=sharing
