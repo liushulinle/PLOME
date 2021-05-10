@@ -12,6 +12,7 @@ Source code for the paper "PLOME: Pre-training with Misspelled Knowledge for Chi
 **Instructions:**
 
 - Finetune: 
+
    train and evaluation file format: original sentence \t golden sentence 
    ```bash
    step1: cd finetune_src ; 
