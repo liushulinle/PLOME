@@ -1,1 +1,1 @@
-The data and pretrained model could be downloaded from https://drive.google.com/file/d/1aip_siFdXynxMz6-2iopWvJqr5jtUu3F/view?usp=sharing .
+The data and pretrained model is available at https://drive.google.com/file/d/1aip_siFdXynxMz6-2iopWvJqr5jtUu3F/view?usp=sharing .
