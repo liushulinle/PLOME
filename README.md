@@ -1,4 +1,4 @@
-# PLOME
+# PLOME:Pre-training with Misspelled Knowledge for Chinese Spelling Correction (ACL2021)
 This repository provides the code and data of the work in ACL2021: *PLOME: Pre-training with Misspelled Knowledge for Chinese Spelling Correction*
 
 **Requirements:**
