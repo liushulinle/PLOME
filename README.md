@@ -30,4 +30,7 @@ This repository provides the code and data of the work in ACL2021: *PLOME: Pre-t
    
    pre-trained cBERT model: https://drive.google.com/file/d/1cqSTpn7r9pnDcvMoM3BbX1X67JsPdZ8_/view?usp=sharing
    
-   国内下载地址：https://share.weiyun.com/OREEY0H3
+   国内下载地址：
+   
+   PLOME： https://share.weiyun.com/OREEY0H3
+   cBERT:  https://share.weiyun.com/wXErg7gB
