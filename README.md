@@ -26,6 +26,8 @@ This repository provides the code and data of the work in ACL2021: *PLOME: Pre-t
    step2: sh gen_train_tfrecords.sh ;
    step3: sh start.sh
    ```
+   
+ **Our Pretrained Models:**
    Our pre-trained model: https://drive.google.com/file/d/1aip_siFdXynxMz6-2iopWvJqr5jtUu3F/view?usp=sharing
    
    pre-trained cBERT model: https://drive.google.com/file/d/1cqSTpn7r9pnDcvMoM3BbX1X67JsPdZ8_/view?usp=sharing
