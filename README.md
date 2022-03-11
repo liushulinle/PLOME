@@ -33,4 +33,5 @@ This repository provides the code and data of the work in ACL2021: *PLOME: Pre-t
    国内下载地址：
    
    PLOME： https://share.weiyun.com/OREEY0H3
+   
    cBERT:  https://share.weiyun.com/wXErg7gB
